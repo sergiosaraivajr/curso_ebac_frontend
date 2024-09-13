@@ -1,0 +1,12 @@
+button {
+    margin-top: 8px;
+}
+
+.row {
+    margin:10%;
+    max-width: fit-content;
+}
+
+label {
+    font-weight:600;
+}
